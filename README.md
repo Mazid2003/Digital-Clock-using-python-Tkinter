@@ -65,7 +65,7 @@ theme_menu.add_command(label="Dark", command=dark_theme)
 
 git clone https://github.com/Mazid2003/Digital-Clock-using-python-Tkinter.git
 
-cd Digital-Clock-using-python-Tkinter
+cd Digital_clock
 
 1️⃣ Make sure you have Python 3 installed.
 
