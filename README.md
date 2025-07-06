@@ -61,13 +61,11 @@ theme_menu.add_command(label="Dark", command=dark_theme)
 - time module (strftime for time formatting)
 
 ## 💻 How to Run
-1. Clone the repository
-```
+**1. Clone the repository**
+
 git clone https://github.com/Mazid2003/Digital-Clock-using-python-Tkinter.git
 
 cd Digital-Clock-using-python-Tkinter
-
-```
 
 1️⃣ Make sure you have Python 3 installed.
 
