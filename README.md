@@ -114,9 +114,9 @@ Feel free to fork the repo, submit PRs, and give your feedback! 🔥💡
 
 Created by **Mohammad Mazid**
 
-Email:mazidmd750@gmail.com
+**Email:** mazidmd750@gmail.com
 
-Linkedin: https://www.linkedin.com/in/mohammadmazid
+**Linkedin:** https://www.linkedin.com/in/mohammadmazid
 
 
 
