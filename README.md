@@ -106,7 +106,7 @@ It can serve as a base for more advanced clock apps!
 
 This project is open-source under the MIT License. Feel free to use and modify it! 🚀
 
-💬 Want to Collaborate?
+## 💬 Want to Collaborate?
 
 Feel free to fork the repo, submit PRs, and give your feedback! 🔥💡
 
