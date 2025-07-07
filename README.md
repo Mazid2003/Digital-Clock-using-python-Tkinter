@@ -102,4 +102,9 @@ python digital_clock.py
 
 It can serve as a base for more advanced clock apps!
 
+## 📜 License
+
+This project is open-source under the MIT License. Feel free to use and modify it! 🚀
+
+
 
